@@ -11,5 +11,20 @@ Our app provides everything a tourist needs to explore the beautiful land of Oma
 
 
 ### Contact us
+<form
+  action="https://formspree.io/f/mpzkwyqa"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-You can contact us at aryaanbsm@gmail.com or suleimanmohamed458@gmail.com
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
